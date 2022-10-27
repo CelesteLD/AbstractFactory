@@ -5,40 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08c16a75-5647-45bb-853f-ae8ef2723e39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/covid.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pastel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pastel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/data/Attribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/data/CSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/data/Categorical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/data/HTTPFileDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/data/Numeric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/giu/MyButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/giu/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/giu/MyLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/giu/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/BarDataset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/CircleGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/DrawCircleGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/DrawLinealGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/LineDataset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/LinealGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/MyBarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/MyLineChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/MyPieChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/PieDataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-P2.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/app/app.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/data/data.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/giu/giu.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/graphics/graphics.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src.plantuml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/celes/Downloads/jfreechart-1.0.1/lib",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/celes/Downloads/jfreechart-1.0.1/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
